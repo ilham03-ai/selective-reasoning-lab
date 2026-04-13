@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.6615,
+  "balanced_accuracy": 0.6650206744096622,
+  "brier_score": 0.4440768651285913,
+  "ece": 0.018841924998909253,
+  "decision_accuracy": 1.0,
+  "overconfident_error_count": 311,
+  "underconfident_correct_count": 999
+}
