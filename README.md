@@ -112,7 +112,21 @@ Policy results:
 
 In this compact environment, the learned selective policy matches the oracle policy on the evaluation set. That is a useful result for this prototype: even with only moderate raw classification accuracy, uncertainty-aware selective behavior substantially improves utility over naive baselines.
 
+## Visual Preview
+
+Key output figures are versioned in `results/figures/` and shown directly below.
+
+**Policy Tradeoff Comparison**
+
 ![Policy tradeoff comparison](results/figures/baseline_policy_comparison.png)
+
+**Uncertainty vs Error**
+
+![Uncertainty vs error](results/figures/uncertainty_vs_error.png)
+
+**Failure Case**
+
+![Failure case](results/figures/failure_case.png)
 
 ## Results Artifacts
 
